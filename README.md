@@ -1,6 +1,4 @@
 #Hi, I'm Abdulrahman
-<br\>
-![Abdulrahman](https://i.gifer.com/A7xU.gif)
 
 - 👀 I’m interested in embedded software, Automotive, IOT, Robotics, AI
 - 🌱 I’m currently learning to use AI with embedded Applications
