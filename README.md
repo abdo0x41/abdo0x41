@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Abdulrahman
-- 👀 I’m interested in coding , Embedded and pentesting
-- 🌱 I’m currently learning embedded linux
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me via my email (abdelrahman0x41@gmail.com)
+#Hi, I'm Abdulrahman
+
+
+- 👀 I’m interested in embedded software, Automotive, IOT, Robotics, AI
+- 🌱 I’m currently learning to use AI with embedded Applications
+- 💞️ I’m looking to collaborate on
+- 📫Reach me via my email (abdelrahman0x41@gmail.com)
 
 <!---
 abdo0x41/abdo0x41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
